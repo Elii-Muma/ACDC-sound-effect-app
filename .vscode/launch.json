@@ -1,0 +1,20 @@
+{
+    "version2": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch App",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/release/PSD.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+
+            "preLaunchTask": "Release",
+            "miDebuggerPath": "C:/mingw64/bin/gdb.exe",
+        }
+    ]
+}
