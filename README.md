@@ -7,6 +7,7 @@ PSD only uses wav sounds(cos what more do you want) for the sound effects.
 # LIBRARIES USED
 - wxWidgets(for the gui)
 - SFML(for the sound)
+- SQLite(for the database)
 
 # INSTALLATION
 - Dowload the latest (release)zip file and extract it anywhere on your computer
